@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FrontLoops 1</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <img src="./img/device.svg" alt="device-img">
+            <h3>
+                MOBILE
+            </h3>
+            <p>
+                Get nofications about new <br> releases in our new mobile app
+            </p>
+            <h4>
+                <span> <sup>&dollar;</sup>10</span> / monthly
+            </h4>
+        </div>
+        <div class="box">
+            <img src="./img//laptop.svg" alt="laptop-img">
+            <h3>
+                DESKTOP
+            </h3>
+            <p>
+                Enjoy new episodes on your laptop<br> in your browser with our web services,<br> which supports all the platforms.
+            </p>
+            <h4>
+                <span> <sup>&dollar;</sup>15</span> / monthly
+            </h4>
+        </div>
+        <div class="box">
+            <img src="./img/monitor.svg" alt="">
+            <h3>
+                TV
+            </h3>
+            <p>
+                Watch your favourite series at home <br> on large screens with our TV <br> application.
+            </p>
+            <h4>
+                <span> <sup>&dollar;</sup>20</span> / monthly
+            </h4>
+        </div>
+    </div>
+</body>
+</html>
